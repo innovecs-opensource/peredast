@@ -1,4 +1,3 @@
-peredast
-========
+# Peredast Skype Bot
 
-Skype bot and messaging service
+Use it at your own risk
